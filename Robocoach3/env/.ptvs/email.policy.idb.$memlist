@@ -1,0 +1,16 @@
+strict
+HeaderRegistry
+HTTP
+Policy
+_has_surrogates
+_extend_docstrings
+raw_data_manager
+__all__
+default
+SMTPUTF8
+compat32
+SMTP
+re
+EmailPolicy
+Compat32
+linesep_splitter

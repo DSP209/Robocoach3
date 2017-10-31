@@ -1,0 +1,10 @@
+importlib
+util
+Source_ExtensionCaseSensitivity
+ExtensionModuleCaseSensitivityTest
+_bootstrap_external
+support
+machinery
+Frozen_ExtensionCaseSensitivity
+sys
+unittest

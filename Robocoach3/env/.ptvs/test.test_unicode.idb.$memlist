@@ -1,0 +1,16 @@
+search_function
+StringModuleTest
+codecs
+StrSubclass
+struct
+itertools
+support
+sys
+CAPITest
+duplicate_string
+warnings
+_string
+operator
+string_tests
+unittest
+UnicodeTest

@@ -1,0 +1,14 @@
+find_executable
+spawn
+requires_zlib
+os
+Distribution
+DistutilsExecError
+BuildRpmTestCase
+run_unittest
+SETUP_PY
+support
+bdist_rpm
+test_suite
+sys
+unittest
